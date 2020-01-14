@@ -22,3 +22,11 @@ Metodo 3:
 Stateless funciotnal components (no clases)
 
 Usando hooks y no states
+
+
+--------------------
+
+Referencias:
+https://github.com/desaijay315/react-webpack-boilerplate
+https://www.valentinog.com/blog/babel/
+https://blog.usejournal.com/setting-up-react-webpack-4-babel-7-from-scratch-2019-b771dca2f637
